@@ -2,7 +2,8 @@
 
 Machine Learning Term Project with Prof. Rajesh Ranganath at NYU. Spring '22
 
-This project aims to study the effectiveness of using [Deconfounded Causal Inference](https://arxiv.org/pdf/1805.06826.pdf) for [Recommendation] (https://arxiv.org/pdf/1808.06581.pdf).
+This project aims to study the effectiveness of using [Deconfounded Causal Inference](https://arxiv.org/pdf/1805.06826.pdf) for [Recommendation](https://arxiv.org/pdf/1808.06581.pdf).
+
 
 # Setup
 
