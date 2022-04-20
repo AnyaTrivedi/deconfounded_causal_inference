@@ -6,11 +6,18 @@ This project aims to study the effectiveness of using [Deconfounded Causal Infer
 
 
 # Setup
-
 Add any depedencies+ environments here
+
+# Jobs
+- Preprocessing of the raw text files not required, use the Jobs Notebook to read directly from the data
+
+# Books
+- CLEANED data ready for use is in the data folder. Preprocessing code in Books-Preprocessing
 
 # Data Links
 - [Jobs Data](https://users.nber.org/~rdehejia/data/.nswdata2.html)
+- [Books Data](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?resource=download)
+
 
 
 # Useful Links
@@ -18,3 +25,4 @@ Add any depedencies+ environments here
 - [Deconfounded Recommendation Paper](https://arxiv.org/pdf/1808.06581.pdf).
 - [Deconfounded Code Tutorial](https://github.com/blei-lab/deconfounder_tutorial)
 - [Deconfounded Causal Inference Slides](http://www.cs.columbia.edu/~blei/talks/deconfounder.pdf)
+- [Deconfounder Code](https://github.com/blei-lab/deconfounder_public)
