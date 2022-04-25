@@ -17,6 +17,7 @@ Add any depedencies+ environments here
 # Data Links
 - [Jobs Data](https://users.nber.org/~rdehejia/data/.nswdata2.html)
 - [Books Data](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?resource=download)
+- [Movies Data](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
 
 
@@ -26,3 +27,5 @@ Add any depedencies+ environments here
 - [Deconfounded Code Tutorial](https://github.com/blei-lab/deconfounder_tutorial)
 - [Deconfounded Causal Inference Slides](http://www.cs.columbia.edu/~blei/talks/deconfounder.pdf)
 - [Deconfounder Code](https://github.com/blei-lab/deconfounder_public)
+- [Poisson Factorization Code](https://github.com/david-cortes/poismf)
+- [Hirarchical Poisson Factorization Code](https://github.com/david-cortes/hpfrec)
