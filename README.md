@@ -19,7 +19,8 @@ Add any depedencies+ environments here
 - [Books Data](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?resource=download)
 - [Movies Data](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
-
+# Results
+- [Results Spreadsheet](https://docs.google.com/spreadsheets/d/1_zJQXtJUI-MVgu3wua1hVQtsd828za35cMjKt2yQ0RU/edit#gid=0)
 
 # Useful Links
 - [Deconfounder Paper](https://arxiv.org/pdf/1805.06826.pdf)
