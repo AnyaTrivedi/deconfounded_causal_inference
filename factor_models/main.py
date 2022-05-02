@@ -21,6 +21,7 @@ import baseline
 import pca
 import DEF
 
+randseed= 123
 
 def get_ratings_matrix(df, train_size=0.75):
     user_to_row = {}
